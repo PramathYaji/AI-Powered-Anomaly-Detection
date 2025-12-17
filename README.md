@@ -36,7 +36,9 @@ This project builds an **AI-based anomaly detection engine** that:
 
 ## System Architecture
 
-[[]]
+<p align="center">
+  <img src="images/AI-powered anomaly detection flowchart.png" width="400"/>
+</p>
 
 
 ---
@@ -105,7 +107,9 @@ These features capture **behavioral patterns**, not static indicators.
 The system generates alerts when anomaly scores exceed a defined threshold.
 
 ### Example Alert
-[[]]
+<p align="center">
+  <img src="images/Alert_Behavioral_anomaly_detected.png" width="400"/>
+</p>
 
 
 ---
