@@ -23,7 +23,7 @@ Traditional security systems rely heavily on:
 These approaches fail against:
 - Zero-day attacks
 - Living-off-the-land techniques
-- Low-and-slow intrusion
+- Low-and-slow intrusions
 
 ### Solution
 
